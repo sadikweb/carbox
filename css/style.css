@@ -1,0 +1,171 @@
+/* banner start */
+
+.banner-sec {
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-content {
+    padding: 200px 0;
+}
+
+.banner-content h2 {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-content h1 {
+    color: #FFFFFF;
+    font-size: 70px;
+}
+
+
+/* banner end */
+
+
+/* explor brand start */
+
+.explor-sec {
+    padding: 70px 0px;
+    background-color: #F9FBFC;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    margin-top: -76px;
+}
+
+.explor-heading h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.show-brands li a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 17px;
+    color: #405FF2;
+    font-weight: 600;
+}
+
+.show-brands li span {
+    font-size: 18px;
+    color: #405FF2 !important;
+}
+
+.icon-box {
+    text-align: center;
+    padding: 30px 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px -2px #dad7d7;
+    border-radius: 20px;
+    border: 1px solid #FFFFFF;
+    margin-top: 40px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.icon-box:hover {
+    border: 1px solid #405FF2;
+}
+
+.explor-sec p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+/* explor brand end */
+
+
+/* <!--  vehicles feature start  --> */
+
+.vehicles-sec {
+    padding: 80px 0;
+}
+
+.underline {
+    border: 0.3px solid #e9e9e9;
+}
+
+.feature-img img {
+    transition: .3s;
+}
+
+.feature-img img:hover {
+    opacity: 0.75;
+}
+
+.feature-box {
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px -2px #dad7d7;
+    padding: 30px 30px 20px 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.car-name {
+    display: inline-block;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.price-content {
+    background-color: #3D923A;
+    padding: 5px 15px 0px 15px;
+    border-radius: 50px;
+    letter-spacing: 1px;
+    top: 10px;
+    right: 10px;
+}
+
+.price-content h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.feature-box p {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.speed-meter i {
+    font-size: 18px;
+}
+
+.speed-meter p {
+    color: #000000;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.dollar h3 {
+    color: #000;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.view a {
+    display: inline-block;
+    text-decoration: none;
+    color: #405FF2;
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}
+
+.view span {
+    color: #405FF2;
+}
+
+
+/* <!--  vehicles feature end--> */
